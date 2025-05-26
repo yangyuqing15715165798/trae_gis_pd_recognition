@@ -3,6 +3,7 @@
 ## 系统简介
 
 本系统是一个用于监测GIS设备局部放电的软件，提供实时数据显示和分析功能。系统基于PyQt5开发，集成了Modbus TCP通信、数据可视化和局部放电类型识别功能。
+![image](https://github.com/user-attachments/assets/59de3540-ec9a-4fee-8b3c-c4a08a93c148)
 
 ## 新增功能：局部放电类型识别
 
